@@ -1,4 +1,4 @@
-![Logo](../Rodolfidas%2B/img/Rodolfidas%2B%20Cabe%C3%A7alho.png)
+![Logo](img/apresentacao.png)
 # Projeto Rodolfidas
 
 ## Sobre o projeto
