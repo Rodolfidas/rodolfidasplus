@@ -10,16 +10,16 @@
     }
 
     .titulo {
-        height: 50px;
-        width: 200px;
+        height: 48px;
+        width: 240px;
     }
 
     .sinopse {
-        font-size: 14px;
+        font-size: 12px;
     }
 
     .filme-principal{
-        background-position: 70%;
+        background-position: 65%;
     }
 }
 
