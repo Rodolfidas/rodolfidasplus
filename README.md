@@ -1,7 +1,7 @@
 ![Logo](img/apresentacao.png)
 
 ## Sobre o projeto
- - Projeto desenvolvido durante o bootcamp "HTML Web Developer", com o objetivo de recriar a página principal da NETFLIX
+ - Projeto desenvolvido durante o bootcamp da DIO, "HTML Web Developer", com o objetivo de recriar a página principal da NETFLIX
 
 ## Objetivos
 - Fixar conteúdos do HTML, CSS e JavaScript
