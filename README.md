@@ -1,5 +1,4 @@
 ![Logo](img/apresentacao.png)
-# Projeto Rodolfidas
 
 ## Sobre o projeto
  - Projeto desenvolvido durante o bootcamp "HTML Web Developer", com o objetivo de recriar a página principal da NETFLIX
